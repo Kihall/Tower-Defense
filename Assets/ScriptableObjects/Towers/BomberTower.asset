@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79763e5da936f754581340e0d977f04d, type: 3}
+  m_Name: BomberTower
+  m_EditorClassIdentifier: 
+  nameString: Bomber Tower
+  prefab: {fileID: 2307501607569480212, guid: ad9a137a4b0d55d44abefca51f582a20, type: 3}
+  sprite: {fileID: -4684628711648490238, guid: 3a193848c8d389f4c9eb72aa4a07aa1a, type: 3}
+  projectileType: 1
+  goldCost: 75
